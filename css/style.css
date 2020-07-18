@@ -12,3 +12,23 @@ body {
 /* ==========================
  Write your solution here!
   ========================== */
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.btn {
+  padding: 15px 20px;
+  background: #ef5839;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 900;
+  display: block;
+}
+
+.btn:hover,
+.btn:focus {
+  font-size: 32px;
+  background: #d4b44c;
+  color: #2e354f;
+}
